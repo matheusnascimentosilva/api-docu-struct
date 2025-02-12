@@ -1,24 +1,6 @@
-# Welcome to your Lovable project
+# Documentação para API's
 
-## Project info
-
-**URL**: https://lovable.dev/projects/fce6139b-f97e-4e53-8399-3a36d800c5ba
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/fce6139b-f97e-4e53-8399-3a36d800c5ba) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+![image](https://github.com/user-attachments/assets/77fd5f87-586f-4fc9-bbaa-a6b7115ac3d3)
 
 Follow these steps:
 
